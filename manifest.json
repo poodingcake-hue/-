@@ -1,6 +1,6 @@
 {
     "name": "준비실 재고",
-    "short_name": "재고관리",
+    "short_name": "준비실재고",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
